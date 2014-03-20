@@ -1,0 +1,10 @@
+From https://github.com/rvagg/learnyounode#learn-you-the-nodejs-for-much-win
+
+» To print these instructions again:           learnyounode print
+» To execute your program in a test env:       learnyounode run program.js
+» To verify your program:                      learnyounode verify program.js
+
+Exercises:
+1) hello_world.js
+2) sum_argv.js
+3) count_newlines.js
