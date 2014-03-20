@@ -10,21 +10,20 @@ var fs = require('fs')
 // This method will return a Buffer object containing the complete contents
 // of the file.
 
-//console.log(process.argv[2]);
+var buffer = fs.readFileSync(process.argv[2]);
+var lines = buffer.toString().split('\n').length - 1;
+console.log(lines);
 
-var toRead = process.argv[2];
-
-fs.readFileSync('toRead');
-
+    // note you can avoid the .toString() by passing 'utf8' as the
+    // second argument to readFileSync, then you'll get a String!
+    //
+    // fs.readFileSync(process.argv[2], 'utf8').split('\n').length - 1
 
 // Buffer objects are Node's way of efficiently representing arbitrary
 // arrays of data, whether it be ascii, binary or some other format.
 // Buffer objects can be converted to strings by simply calling the
 // toString() method on them. e.g. var str = buf.toString().
 
-var str = buf.toString();
-
-co nsole.log(str);
 // If you're looking for an easy way to count the number of newlines
 // in a string, recall that a JavaScript String can be .split() into an array
 // of substrings and that '\n' can be used as a delimiter. Note that the test
