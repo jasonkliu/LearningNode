@@ -14,3 +14,5 @@ Exercises:
 7) http_client.js
 8) http_collect.js
 9) juggling_async.js
+10) time_server.js
+11) file_server.js
