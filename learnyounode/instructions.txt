@@ -16,3 +16,5 @@ Exercises:
 9) juggling_async.js
 10) time_server.js
 11) file_server.js
+12) upper_caster.js
+13) json_api.js
