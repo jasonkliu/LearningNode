@@ -8,3 +8,9 @@ Exercises:
 1) hello_world.js
 2) sum_argv.js
 3) count_newlines.js
+4) count_newlines_async.js
+5) ls_files.js
+6) ls_modular.js and ls_mymodule.js
+7) http_client.js
+8) http_collect.js
+9) juggling_async.js
