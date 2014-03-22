@@ -1,0 +1,9 @@
+From `https://github.com/substack/stream-adventure`
+
+To verify your program, run: `stream-adventure verify program.js`.
+
+Exercises:
+1) program.js
+2) file_stream.js
+3) io.js
+4) transform_upper.js
