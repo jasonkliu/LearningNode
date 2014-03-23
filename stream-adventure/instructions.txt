@@ -7,3 +7,7 @@ Exercises:
 2) file_stream.js
 3) io.js
 4) transform_upper.js
+5) upper_lower.js
+6) concat.js
+7) http_client.js
+

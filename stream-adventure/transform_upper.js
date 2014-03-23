@@ -25,7 +25,6 @@ For example, here is a program that fires the `write(buf)` and `end()` callbacks
 by calling `.write()` and `.end()` manually:*/
 
 var through = require('through');
-var through = require('through');
 var tr = through(function (buf) {
     this.queue(buf.toString().toUpperCase());
 });
