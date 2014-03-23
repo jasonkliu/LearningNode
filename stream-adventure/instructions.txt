@@ -11,4 +11,7 @@ Exercises:
 6) concat.js
 7) http_client.js
 8) websockets.js
+9) html_stream.js
+10) duplexer.js
+11) duplexer_redux.js
 
