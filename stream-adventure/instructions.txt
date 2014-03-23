@@ -10,4 +10,5 @@ Exercises:
 5) upper_lower.js
 6) concat.js
 7) http_client.js
+8) websockets.js
 
