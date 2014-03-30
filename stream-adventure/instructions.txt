@@ -14,4 +14,7 @@ Exercises:
 9) html_stream.js
 10) duplexer.js
 11) duplexer_redux.js
+12) combiner.js
+13) crypt.js
+14) secretz.js
 

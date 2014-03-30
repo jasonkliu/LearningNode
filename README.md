@@ -12,3 +12,5 @@ Resources list:
     Difficulty seems to spike randomly so don't get discouraged.
   * Second, `stream-adventure`. Time to learn about streams.
   `https://github.com/substack/stream-adventure`
+    Reference solutions are not long (for the most part) but it can be
+	difficult to get your solution to match it, so it's often much longer.
